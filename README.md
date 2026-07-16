@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Mitch</h1>
+<h1 align="center">Hi I'm Mounir</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=848d97&center=true&vCenter=true&width=400&height=44&lines=making%20art;and%20Share%20it%20with%20others" alt="Typing headlines" />
@@ -8,7 +8,7 @@
 
 ### About Me
 
-*   **Who I am:** Just an 18-year-old hobbyist who codes for fun. 
+*   **Who I am:** Mounir Benriala, an 18-year-old hobbyist from Algeria who codes for fun.
 *   **What I do:** I write basic scripts to automate small tasks, play around with tools, and build simple micro-services. I prefer small, useful utilities over massive, complicated projects.
 *   **My setup:** I spend most of my time in the terminal, customizing my environment, and experimenting on Termux and Linux.
 *   **Current focus:** Just learning, exploring backend logic, and fixing whatever breaks along the way.
@@ -45,7 +45,7 @@
 
 ### Contact With Me
 
-<p align="left"><a href="https://t.me/benriala" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://wa.me/213668700027" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="https://linkedin.com/in/benrialamounir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://instagram.com/benrialamounir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://x.com/benrialamounir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://facebook.com/benrialamounir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="mailto:benrialamounir@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p align="left"><a href="https://t.me/benriala" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://wa.me/213668700027" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="https://instagram.com/benrialamounir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://x.com/benrialamounir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://facebook.com/benrialamounir" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="mailto:benrialamounir@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 ---
 
