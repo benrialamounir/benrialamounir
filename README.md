@@ -8,7 +8,7 @@
 
 ### About Me
 
-*   **Who I am:** Mounir Benriala, an 18-year-old hobbyist from Algeria who codes for fun.
+*   **Who I am:** Benriala Mounir, an 18-year-old hobbyist from Algeria who codes for fun.
 *   **What I do:** I write basic scripts to automate small tasks, play around with tools, and build simple micro-services. I prefer small, useful utilities over massive, complicated projects.
 *   **My setup:** I spend most of my time in the terminal, customizing my environment, and experimenting on Termux and Linux.
 *   **Current focus:** Just learning, exploring backend logic, and fixing whatever breaks along the way.
